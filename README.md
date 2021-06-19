@@ -225,12 +225,12 @@ const service : Service = {
 
 export default service;
 ```
-## Run the app!
+## Run the Typescript app!
 ```
 npm run dev
 ```
-##OR
-## Run the transpiled app!
+## OR
+## Run the transpiled javascript app!
 ```
 npm run build
 npm start
